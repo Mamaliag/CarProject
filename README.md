@@ -1,7 +1,7 @@
 # My Car Details
 ## Amplifund Project
 
-This web application displays a list of cars and their details as well as an image.).
+This web application displays a list of cars and their details as well as an image.
 
 ## Project setup
 ```
