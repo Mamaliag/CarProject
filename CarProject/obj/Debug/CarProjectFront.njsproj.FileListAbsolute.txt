@@ -1,0 +1,3 @@
+C:\Users\Student\Desktop\CarProject\obj\Debug\CarProjectFront.njsproj.AssemblyReference.cache
+C:\Users\Student\Desktop\CarProject\obj\Debug\CarProjectFront.njsproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\CarProject\bin\Microsoft.NodejsTools.WebRole.dll
